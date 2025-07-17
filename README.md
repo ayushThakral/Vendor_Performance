@@ -1,2 +1,2 @@
 # Vendor_Performance
-An overall vendor performance is done on the basis of sales and purchase data given.
+This project is based on the sales and purchase activities of products by vendors on an online vendor portal. It involves analyzing vendor performance, product sales trends, and purchase contributions to gain business insights. The goal is to understand which vendors and products contribute most to the overall business, identify areas for cost optimization, and make data-driven decisions related to pricing, freight, and inventory. The analysis also helps uncover hidden opportunities, such as high-margin products with low sales, and potential risks like over-dependence on a few vendors.
